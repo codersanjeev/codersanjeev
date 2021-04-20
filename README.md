@@ -34,6 +34,92 @@
 - 📫 How to reach me: thedevelopersanjeev@gmail.com;
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 288 Contributions in the Year 2021
+ > 
+> 📦 419.7 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 24 Public Repositories 
+ > 
+> 🔑 11 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.79% 
+🌆 Daytime    89 commits     ███████░░░░░░░░░░░░░░░░░░   31.34% 
+🌃 Evening    94 commits     ████████░░░░░░░░░░░░░░░░░   33.1% 
+🌙 Night      59 commits     █████░░░░░░░░░░░░░░░░░░░░   20.77%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.56% 
+Tuesday      50 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.61% 
+Wednesday    34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.97% 
+Thursday     32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.27% 
+Friday       37 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.03% 
+Saturday     61 commits     █████░░░░░░░░░░░░░░░░░░░░   21.48% 
+Sunday       40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.08%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Swift                    17 hrs 33 mins      █████████░░░░░░░░░░░░░░░░   38.6% 
+C++                      13 hrs 21 mins      ███████░░░░░░░░░░░░░░░░░░   29.38% 
+Kotlin                   6 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.87% 
+XML                      5 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   11.04% 
+Git Config               35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.29%
+
+🔥 Editors: 
+Xcode                    18 hrs 20 mins      ██████████░░░░░░░░░░░░░░░   40.32% 
+VS Code                  13 hrs 49 mins      ███████░░░░░░░░░░░░░░░░░░   30.39% 
+Android Studio           12 hrs 11 mins      ██████░░░░░░░░░░░░░░░░░░░   26.81% 
+IntelliJ                 51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.87% 
+Sublime Text             16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.61%
+
+🐱‍💻 Projects: 
+mBriefingMobile          15 hrs 47 mins      ████████░░░░░░░░░░░░░░░░░   34.71% 
+Competitive-Programming  13 hrs 16 mins      ███████░░░░░░░░░░░░░░░░░░   29.17% 
+Poetistic                11 hrs 22 mins      ██████░░░░░░░░░░░░░░░░░░░   25.02% 
+100-days-of-swift        2 hrs 33 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.61% 
+Unknown Project          55 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.04%
+
+💻 Operating System: 
+Windows                  26 hrs 52 mins      ██████████████░░░░░░░░░░░   59.07% 
+Mac                      18 hrs 37 mins      ██████████░░░░░░░░░░░░░░░   40.93%
+
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     18 repos            █████████████░░░░░░░░░░░░   52.94% 
+Kotlin                   6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
+C++                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
+C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.94%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/codersanjeev/codersanjeev/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/codersanjeev">
