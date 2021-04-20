@@ -34,7 +34,7 @@
 - 📫 How to reach me: thedevelopersanjeev@gmail.com;
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-57-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-216865%20lines%20of%20code-blue)
 
@@ -42,7 +42,7 @@
 
 > 🏆 290 Contributions in the Year 2021
  > 
-> 📦 419.7 kB Used in Github's Storage 
+> 📦 419.8 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
