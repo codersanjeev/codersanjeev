@@ -34,13 +34,13 @@
 - 📫 How to reach me: thedevelopersanjeev@gmail.com;
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-58-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-57-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-131657%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-132500%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 314 Contributions in the Year 2021
+> 🏆 322 Contributions in the Year 2021
  > 
 > 📦 420.3 kB Used in Github's Storage 
  > 
@@ -48,27 +48,27 @@
  > 
 > 📜 24 Public Repositories 
  > 
-> 🔑 11 Private Repositories  
+> 🔑 12 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.23% 
-🌆 Daytime    95 commits     ███████░░░░░░░░░░░░░░░░░░   31.46% 
-🌃 Evening    102 commits    ████████░░░░░░░░░░░░░░░░░   33.77% 
-🌙 Night      59 commits     █████░░░░░░░░░░░░░░░░░░░░   19.54%
+🌞 Morning    46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.18% 
+🌆 Daytime    96 commits     ████████░░░░░░░░░░░░░░░░░   31.68% 
+🌃 Evening    102 commits    ████████░░░░░░░░░░░░░░░░░   33.66% 
+🌙 Night      59 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.47%
 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.26% 
-Tuesday      54 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.88% 
-Wednesday    37 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.25% 
-Thursday     34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.26% 
-Friday       40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.25% 
-Saturday     64 commits     █████░░░░░░░░░░░░░░░░░░░░   21.19% 
-Sunday       42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.91%
+Monday       31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.23% 
+Tuesday      54 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.82% 
+Wednesday    37 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.21% 
+Thursday     34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.22% 
+Friday       40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.2% 
+Saturday     64 commits     █████░░░░░░░░░░░░░░░░░░░░   21.12% 
+Sunday       43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.19%
 
 ```
 
