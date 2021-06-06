@@ -36,11 +36,11 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-149434%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-148277%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 403 Contributions in the Year 2021
+> 🏆 406 Contributions in the Year 2021
  > 
 > 📦 421.3 kB Used in Github's Storage 
  > 
@@ -53,22 +53,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    71 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.64% 
-🌆 Daytime    160 commits    ████████░░░░░░░░░░░░░░░░░   35.24% 
-🌃 Evening    155 commits    ████████░░░░░░░░░░░░░░░░░   34.14% 
-🌙 Night      68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.98%
+🌞 Morning    65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.87% 
+🌆 Daytime    156 commits    █████████░░░░░░░░░░░░░░░░   35.7% 
+🌃 Evening    150 commits    ████████░░░░░░░░░░░░░░░░░   34.32% 
+🌙 Night      66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.1%
 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.0% 
-Tuesday      71 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.64% 
-Wednesday    52 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.45% 
-Thursday     57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.56% 
-Friday       56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.33% 
-Saturday     96 commits     █████░░░░░░░░░░░░░░░░░░░░   21.15% 
-Sunday       63 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.88%
+Monday       59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.5% 
+Tuesday      70 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.02% 
+Wednesday    48 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.98% 
+Thursday     57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
+Friday       57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
+Saturday     89 commits     █████░░░░░░░░░░░░░░░░░░░░   20.37% 
+Sunday       57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.04%
 
 ```
 
