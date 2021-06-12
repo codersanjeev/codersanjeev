@@ -1,93 +1,34 @@
 ### Hey 👋🏽, I'm [Sanjeev!](https://codersanjeev.github.io/), a Mobile Application (both iOS and Android) Developer 🚀 from India. 
 
 <a href="https://twitter.com/codersanjeev">
-  <img align="left" alt="Sanjeev's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.13.0/icons/twitter.svg" />
+  <img align="left" alt="Sanjeev's Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg"/>
 </a>
 <a href="https://linkedin.com/in/codersanjeev">
-  <img align="left" alt="Sanjeev's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.13.0/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/codersanjeev">
-  <img align="left" alt="Sanjeev's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.13.0/icons/github.svg" />
+  <img align="left" alt="Sanjeev's Linkdein" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />
 </a>
 <a href="https://leetcode.com/codersanjeev/">
-  <img align="left" alt="Sanjeev's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.13.0/icons/leetcode.svg" />
+  <img align="left" alt="Sanjeev's Leetcode" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/leetcode.svg" />
 </a>
 <a href="https://www.codechef.com/users/codersanjeev">
-  <img align="left" alt="Sanjeev's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.13.0/icons/codechef.svg" />
+  <img align="left" alt="Sanjeev's Codechef" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codechef.svg" />
 </a>
 <a href="https://codeforces.com/profile/codersanjeev">
-  <img align="left" alt="Sanjeev's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.13.0/icons/codeforces.svg" />
+  <img align="left" alt="Sanjeev's Codeforces" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codeforces.svg" />
 </a>
 <a href="https://www.hackerearth.com/@codersanjeev">
-  <img align="left" alt="Sanjeev's HackerEarth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerearth.svg" />
+  <img align="left" alt="Sanjeev's HackerEarth" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@5/icons/hackerearth.svg" />
 </a>
 <a href="https://www.hackerrank.com/profile/codersanjeev">
-  <img align="left" alt="Sanjeev's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />
+  <img align="left" alt="Sanjeev's HackerRank" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@5/icons/hackerrank.svg" />
 </a>
 <br />
 <br/>
 
 - 👨🏽‍💻 I’m currently working on building awesome applications for mobiles and tablets (both iOS and Android);
 - 🌱 I’m currently learning to write clean and bug free code;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: Swift and Kotlin are ❣️
+- 💬 Ask me about coding, I am happy to help;
+- ⚡️ Fun-Fact: Swift and Kotlin are 💙
 - 📫 How to reach me: thedevelopersanjeev@gmail.com;
-
-**🐱 My Github Data** 
-
-> 🏆 406 Contributions in the Year 2021
- > 
-> 📦 421.3 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 26 Public Repositories 
- > 
-> 🔑 13 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.87% 
-🌆 Daytime    156 commits    █████████░░░░░░░░░░░░░░░░   35.7% 
-🌃 Evening    150 commits    ████████░░░░░░░░░░░░░░░░░   34.32% 
-🌙 Night      66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.1%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.5% 
-Tuesday      70 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.02% 
-Wednesday    48 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.98% 
-Thursday     57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
-Friday       57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
-Saturday     89 commits     █████░░░░░░░░░░░░░░░░░░░░   20.37% 
-Sunday       57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.04%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Kotlin                   15 hrs 39 mins      ████████████░░░░░░░░░░░░░   49.3% 
-C++                      12 hrs 53 mins      ██████████░░░░░░░░░░░░░░░   40.56% 
-Other                    1 hr                ░░░░░░░░░░░░░░░░░░░░░░░░░   3.15% 
-XML                      27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.47% 
-Python                   24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.27%
-
-```
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/codersanjeev/codersanjeev/master/charts/bar_graph.png) 
-
-
-<!--END_SECTION:waka-->
 
 <a href="https://github.com/codersanjeev">
   <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=codersanjeev&show_icons=true&include_all_commits=true" alt="Sanjeev's github stats" />
