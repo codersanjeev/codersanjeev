@@ -23,6 +23,9 @@
 <a href="https://www.hackerrank.com/profile/codersanjeev">
   <img align="left" alt="Sanjeev's HackerRank" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@5/icons/hackerrank.svg" />
 </a>
+<a href="https://stackoverflow.com/users/9016995/sanjeev-sharma">
+  <img align="left" alt="Sanjeev's StackOverFlow" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/stackoverflow.svg" />
+</a>
 <br />
 <br />
 
