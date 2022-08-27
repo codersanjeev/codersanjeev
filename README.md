@@ -15,7 +15,7 @@
 ### GitHub Stats:
 
 <p align="left">
-	<img width="49%" src="https://github-readme-stats.vercel.app/api?username=codersanjeev&show_icons=true" />
-	<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=codersanjeev" />
+	<img width="49%" src="https://github-readme-stats.vercel.app/api?username=codersanjeev&show_icons=true&icon_color=805AD5&text_color=666666&bg_color=ffffff00&include_all_commits=true&count_private=true" />
+	<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=codersanjeev&show_icons=true&icon_color=805AD5&text_color=666666&bg_color=ffffff00&include_all_commits=true&count_private=true" />
 </p>
 
