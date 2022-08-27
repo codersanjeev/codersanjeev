@@ -1,4 +1,4 @@
-### नमस्ते (Namaste), I am [Sanjeev](http://codersanjeev.github.io/)
+<h1 align="center">नमस्ते (Namaste), I am <a href="http://codersanjeev.github.io/">Sanjeev</a></h1>
 
 ![Profile views](https://gpvc.arturio.dev/codersanjeev)
 
