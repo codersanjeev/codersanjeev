@@ -12,5 +12,4 @@
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=codersanjeev&border_radius=10&date_format=M%20j%5B%2C%20Y%5D"/>
 <img src="https://github-readme-stats.vercel.app/api?username=codersanjeev" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersanjeev&count_private=true" />
 </p>
